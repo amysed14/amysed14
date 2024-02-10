@@ -2,7 +2,7 @@
 
 Hi, I’m Amelia 👋
 
-- 👀 When I am not learning and analyzing, I enjoy swimming, traveling, exploring art, and trying new food.
+- 👀 When I am not learning and analyzing, I enjoy swimming, traveling, art, and trying new food.
 
 - 🌱 I am a recent graduate in Information Systems with a passion for data, analytics, and business intelligence. Coming from a background in economics/administrative studies and with experience in the hospitality industry, I bring a unique perspective to understanding and analyzing data. I take pride in my eagerness to learn and adapt, particularly in my ability to learn and work with a variety of data sources and tools. I am always eager to explore new concepts and techniques in the field of data analytics and business intelligence. I'm dedicated to uncovering meaningful insights from raw data and excited to continue my journey in the world of data.
 
